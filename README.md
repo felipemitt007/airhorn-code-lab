@@ -12,9 +12,7 @@ Only a developer participated in this project. The programmer Felipe Mitterofhe.
 
 ## Version control:
 
-<The system is currently in version 1.0.> 
-
-This version is included the code that the web app works even when you're offline.
+The system is currently in version 1.0. This version is included the code that the web app works even when you're offline.
 
 ## Authors:
 
